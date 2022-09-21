@@ -8,13 +8,15 @@ For Android it creates an XML resources file with all of the strings. For iOS it
 ## Installing
 
 1. Open your sheet.
-2. Go to **Tools -> Script Editor**
-3. Copy `Code.js`, make your edits if needed, and **Save**.
+2. Go to **Extensions -> App Scripts**
+3. Copy `Code.gs` into the editor.
+4. Edit if needed, and **Run**
+5. Approve the permissions request to access the sheet.
 
 ## Usage
 
 1. Open your sheet.
-2. Go to **Custom Export** and select your **iOS** or **Android**.
+2. Go to **Localization Export** and select your **iOS** or **Android**.
 
 ## Sheet format
 
